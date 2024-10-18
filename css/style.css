@@ -16,9 +16,9 @@ h1, h2, h3 {color: #fd6800; font-family: "Alfa Slab One", sans-serif; font-weigh
 
 p {font-size: 20px; line-height: 50px; text-align: justify;font-weight:800}
 
-div {width: 50%; margin-bottom: 50px;display: flex; justify-content: space-between;}
+div {width: 90%;  margin: 3% auto;justify-content: space-between;}
 
-div img{width: 40%;border: 3px solid #04b1b8;}
+div img{width: 18%;border: 3px solid #04b1b8;}
 
 div img:hover {border-radius: 1000px;}
 
